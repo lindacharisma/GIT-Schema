@@ -1,0 +1,1 @@
+GitHub menjadi trend dikalangan para developer karena fungsinya yang dapat memudahkan pekerjaan. Kemudahan tersebut menjadi layanan utama dari produk ini. Yang menjadi menarik dari platform ini adalah, kita bisa posting hasil project/repo/source code kita agar dapat dilihat oleh user lain.
